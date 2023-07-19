@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **johnpertuz@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAETf1PXnXM/SEjGs0Vlnkx1Kkl2biwWew/edit?utm_content=DAETf1PXnXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAETf1PXnXM/SEjGs0Vlnkx1Kkl2biwWew/edit?utm_content=DAETf1PXnXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences CV: [https://www.canva.com/design/DAETf1PXnXM/SEjGs0Vlnkx1Kkl2biwWew/edit?utm_content=DAETf1PXnXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAETf1PXnXM/SEjGs0Vlnkx1Kkl2biwWew/edit?utm_content=DAETf1PXnXM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jondevp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jondevp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/john-pertuz-72a27b103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-pertuz-72a27b103/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/john-pertuz-72a27b103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/john-pertuz-72a27b103/" height="30" width="40" /></a>
 <a href="https://instagram.com/@john_pertuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@john_pertuz" height="30" width="40" /></a>
 </p>
 
